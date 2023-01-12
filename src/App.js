@@ -16,7 +16,7 @@ export default function App() {
   return (
     <>
       <BrowserRouter>
-        <Intro />
+
         <Routes>
           <Route exact path="/" element={ <Login />} />
           <Route exact path="/forgot" element={<Forgot />} />

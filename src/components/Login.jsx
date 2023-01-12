@@ -47,7 +47,7 @@ constructor(){
                     </div>
                     <div className=' flex justify-between'>
                         <p className='flex items-center'><input className='mr-1 border border-orange-800' type="checkbox" />Remember </p>
-                        <p><Link className='text-blue-900 underline' to="./forgot">Forgot Password?</Link></p>
+                        <p><Link className='text-blue-900 underline' to="/forgot">Forgot Password?</Link></p>
                     </div>
                     <button onClick={()=>{this.submit()}} className='border w-16 my-5 py-1.5 rounded bg-orange-500 hover:bg-orange-400 text-white'>LOGIN</button>
                 </form>
