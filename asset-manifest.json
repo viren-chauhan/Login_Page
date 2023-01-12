@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Login_Page/static/css/main.83c6deed.css",
+    "main.js": "/Login_Page/static/js/main.b5d650ca.js",
+    "static/js/787.b56f082d.chunk.js": "/Login_Page/static/js/787.b56f082d.chunk.js",
+    "static/media/microfocus.jpg": "/Login_Page/static/media/microfocus.e62b38d0ce743aacdcd2.jpg",
+    "index.html": "/Login_Page/index.html",
+    "main.83c6deed.css.map": "/Login_Page/static/css/main.83c6deed.css.map",
+    "main.b5d650ca.js.map": "/Login_Page/static/js/main.b5d650ca.js.map",
+    "787.b56f082d.chunk.js.map": "/Login_Page/static/js/787.b56f082d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c6deed.css",
+    "static/js/main.b5d650ca.js"
+  ]
+}
