@@ -20,7 +20,7 @@ export default class Forgot extends Component {
                 </div>
                 <div className="flex justify-between w-3/4 my-3">
                     <button className='bg-orange-500 text-white py-1.5 px-6 rounded'>SEND REQUEST</button>
-                    <button className='bg-white py-1.5 px-4 rounded'><Link to="/">BACK</Link></button>
+                    <button className='bg-white py-1.5 px-4 rounded'><Link to="/Login_Page">BACK</Link></button>
                 </div>
             </form>
             </div>
